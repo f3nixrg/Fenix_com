@@ -53,7 +53,7 @@ export default function App() {
             </h2>
 
             <p className="text-gray-200 text-sm sm:text-base mb-6 leading-relaxed max-w-lg">
-              Creando experiencias digitales estéticas, funcionales y centradas en el usuario. Apasionada por la arquitectura de sistemas, el desarrollo web moderno y la ciberseguridad.
+              Aprediendo cada dia sobre la tecnologia y dando mis primeros pasos hacia el mundo de la cibersguridad
             </p>
 
   
@@ -78,12 +78,12 @@ export default function App() {
                 href="/mi_llave_publica.asc" 
                 download 
                 className="px-6 py-3 rounded-xl bg-[#1c2541] border border-purple-400/50 hover:bg-purple-900/40 text-purple-300 font-medium text-sm transition flex items-center gap-2">
-                🔑 Llave Pública
+                🔑 Mi llave publica
               </a>
             </div>
 
             <div className="w-full pt-6 border-t border-purple-900/40 flex items-center gap-4 text-sm text-gray-300">
-              <span className="text-xs text-purple-300 font-semibold uppercase tracking-wider">Sígueme:</span>
+              <span className="text-xs text-purple-300 font-semibold uppercase tracking-wider">Contactame:</span>
               <div className="flex gap-4 text-base">
                 <a href="https://github.com/f3nixrg" target="_blank" rel="noopenernoreferrer" className="inline-flex items-center gap-2 text-gray-300 hover:text-purple-400 transition-colors cursor-pointer">
                 <svg className="w-5 h-5 fill-current pointer-events-none" viewBox="0 0 24 24">
